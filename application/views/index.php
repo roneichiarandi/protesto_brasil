@@ -1,4 +1,3 @@
-
     <h1><a href="<?php echo base_url() ?>">Mostrando o que a TV quer esconder!</a></h1>
     
     <div class="row-fluid">
@@ -36,7 +35,7 @@
         $(function(){
           Instagram.App.init();
           
-          // Start with a search on cats; we all love cats.
+          // ogiganteacordou
           Instagram.App.search('<?php echo $this->uri->segment(2) ? $this->uri->segment(2) : "ogiganteacordou" ?>');  
         });
 
