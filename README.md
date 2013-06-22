@@ -26,7 +26,7 @@ PARTICIPE
   
 [API Instagram]: http://instagram.com/developer/
 [API Twitter]: https://dev.twitter.com/
-[API Instagram]: https://developers.facebook.com/
+[API Facebook]: https://developers.facebook.com/
 
 [#protestoBrasil]:http://www.renanmpimentel.com/protesto/hashtag/protestoBrasil
 [#ogiganteacordou]:http://www.renanmpimentel.com/protesto/hashtag/ogiganteacordou
